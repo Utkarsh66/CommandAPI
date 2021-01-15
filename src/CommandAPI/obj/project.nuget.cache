@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QzDI06wp+9FkrJLdVpM6bdzkPeNkjJWq+u/g5qg+pHu0TfOKRMd5Vi0v6LeQ2OPa+FXQqyheYL9wZk38Mvd9A==",
+  "dgSpecHash": "g/PxrciCQ7ogExDNnIyEvsSC0aGTocur56ukYKywBmhr7qQKmSwcTc3Ezj3DHngKuycfj6V174E59N7x4gYKvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj",
+  "projectFilePath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utkarsh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Utkarsh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

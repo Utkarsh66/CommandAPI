@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj": {}
+    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj": {
+    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj",
+        "projectPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "packagesPath": "C:\\Users\\Utkarsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\obj\\",
+        "outputPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
