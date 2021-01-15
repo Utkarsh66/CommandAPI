@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {}
+    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
+    "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\CommandAPI.csproj",
         "packagesPath": "C:\\Users\\Utkarsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\CommandAPI\\obj\\",
+        "outputPath": "C:\\Users\\Utkarsh\\source\\WebAPI Through VS code\\CommandAPISolution\\src\\commandAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,22 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.Postgresql": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

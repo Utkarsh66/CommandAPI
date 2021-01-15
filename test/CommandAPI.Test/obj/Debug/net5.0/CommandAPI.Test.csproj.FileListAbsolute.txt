@@ -103,3 +103,9 @@ C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAP
 C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\obj\Debug\net5.0\ref\CommandAPI.Test.dll
 C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\obj\Debug\net5.0\CommandAPI.Test.pdb
 C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\obj\Debug\net5.0\CommandAPI.Test.genruntimeconfig.cache
+C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Utkarsh\source\WebAPI Through VS code\CommandAPISolution\test\CommandAPI.Test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
