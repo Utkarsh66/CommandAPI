@@ -1,6 +1,7 @@
 using System.Linq;
 using CommandAPI.Models;
 using System.Collections.Generic;
+using System;
 namespace CommandAPI.Data
 {
     public class SqlCommandAPIRepo: ICommandAPIRepo{
@@ -11,7 +12,12 @@ namespace CommandAPI.Data
             _context = context;
         }
         public void CreateCommand(Command cmd){
-            throw new System.NotImplementedException();
+            if(cmd == null)
+            {
+                throw new ArgumentNullException(nameof(cmd));
+            }
+
+            _context.CommandItems.Add(cmd);
         }
 
         public void DeleteCommand(Command cmd){
@@ -27,11 +33,11 @@ namespace CommandAPI.Data
         }
 
         public bool SaveChanges(){
-            throw new System.NotImplementedException();
+            return (_context.SaveChanges() >=0);
         }
 
         public void UpdateCommand(Command cmd){
-            throw new System.NotImplementedException();
+            
         }
     }
 }
